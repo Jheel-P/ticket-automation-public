@@ -1,0 +1,10 @@
+{
+    "api_path": "API_PATH",
+    "request_headers": {
+        "Content-Type": "application/json", "Accept": "application/json"
+    },
+    "query_parameters": {},
+    "request_body": {},
+    "ticket_type": "TICKET_TYPE",
+    "method": "METHOD"
+}

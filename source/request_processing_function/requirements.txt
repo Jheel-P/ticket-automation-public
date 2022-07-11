@@ -1,0 +1,6 @@
+google-cloud-logging
+google-cloud-secret-manager
+google-cloud-datastore
+google-cloud-storage
+google-auth
+requests

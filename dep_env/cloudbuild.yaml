@@ -1,0 +1,13 @@
+steps:
+  # - name: 'docker.io/library/python:3.10'
+  #   args:
+  #     - '-c'
+  #     - pip install -r requirements.txt
+  #   dir: incident_processing_function
+  #   entrypoint: /bin/sh
+  - name: gcr.io/cloud-builders/gcloud
+    entrypoint: /bin/sh
+    args:
+      - '-c' 
+      - chmod 777 ./cloud_build_prod.sh && ./cloud_build_prod.sh
+    dir: source/incident_processing_function

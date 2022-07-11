@@ -1,0 +1,6 @@
+{
+    "gcp_project": "GCP_PROJECT",
+    "log_name": "GCP_LOG_NAME",
+    "servicenow_client_url": "SNOW_CLIENT_FUNCTION_URL",
+    "credentials_secret_id": "projects/PROJECT_NUMBER/secrets/CLICKUP_ACCESS_TOKEN_SECRET_ID/versions/latest"
+}

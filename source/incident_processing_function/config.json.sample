@@ -1,0 +1,5 @@
+{
+    "gcp_project": "GCP_PROJECT",
+    "log_name": "GCP_LOG_NAME",
+    "servicenow_client_url": "SNOW_CLIENT_FUNCTION_URL"
+}

@@ -1,0 +1,6 @@
+{
+    "gcp_project": "GCP_PROJECT",
+    "instance_uri": "SNOW_INSTANCE_URI (e.g. https://snow.servicenow.com/)",
+    "log_name": "GCP_LOG_NAME",
+    "credentials_secret_id": "projects/PROJECT_NUMBER/secrets/SNOW_CREDENTIALS_SECRET_ID/versions/latest"
+}
